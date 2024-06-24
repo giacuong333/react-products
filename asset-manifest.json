@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/products/static/css/main.8bd7d5ce.css",
-    "main.js": "/products/static/js/main.37886df9.js",
-    "static/js/453.3149ac5f.chunk.js": "/products/static/js/453.3149ac5f.chunk.js",
-    "static/media/banner-home.png": "/products/static/media/banner-home.789f1fa6f451ad26c503.png",
-    "static/media/banner-featured.png": "/products/static/media/banner-featured.fbf4f0f7396fe31ca288.png",
-    "static/media/banner-recommended.png": "/products/static/media/banner-recommended.24e9b8f48d5a0ac32680.png",
-    "static/media/defaultBanner.jpg": "/products/static/media/defaultBanner.accdc757f2c48d61f24c4fbcef2742fd.accdc757f2c48d61f24c.jpg",
-    "static/media/defaultAvatar.jpg": "/products/static/media/defaultAvatar.4e9edb2a624547982816.jpg",
-    "index.html": "/products/index.html",
-    "main.8bd7d5ce.css.map": "/products/static/css/main.8bd7d5ce.css.map",
-    "main.37886df9.js.map": "/products/static/js/main.37886df9.js.map",
-    "453.3149ac5f.chunk.js.map": "/products/static/js/453.3149ac5f.chunk.js.map"
+    "main.css": "/react-products/static/css/main.8bd7d5ce.css",
+    "main.js": "/react-products/static/js/main.3d0dc12a.js",
+    "static/js/453.3149ac5f.chunk.js": "/react-products/static/js/453.3149ac5f.chunk.js",
+    "static/media/banner-home.png": "/react-products/static/media/banner-home.789f1fa6f451ad26c503.png",
+    "static/media/banner-featured.png": "/react-products/static/media/banner-featured.fbf4f0f7396fe31ca288.png",
+    "static/media/banner-recommended.png": "/react-products/static/media/banner-recommended.24e9b8f48d5a0ac32680.png",
+    "static/media/defaultBanner.jpg": "/react-products/static/media/defaultBanner.accdc757f2c48d61f24c4fbcef2742fd.accdc757f2c48d61f24c.jpg",
+    "static/media/defaultAvatar.jpg": "/react-products/static/media/defaultAvatar.4e9edb2a624547982816.jpg",
+    "index.html": "/react-products/index.html",
+    "main.8bd7d5ce.css.map": "/react-products/static/css/main.8bd7d5ce.css.map",
+    "main.3d0dc12a.js.map": "/react-products/static/js/main.3d0dc12a.js.map",
+    "453.3149ac5f.chunk.js.map": "/react-products/static/js/453.3149ac5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8bd7d5ce.css",
-    "static/js/main.37886df9.js"
+    "static/js/main.3d0dc12a.js"
   ]
 }
